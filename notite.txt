@@ -1,0 +1,1 @@
+pentru fiecare colt se determina pozitia servomotoarelor
