@@ -1,3 +1,3 @@
 # Internship-Siemens
 
-## etc
+## Pentru pornirea aplicatiei - ruleaza recognition.py
