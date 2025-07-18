@@ -1,0 +1,12 @@
+
+LCD_APP_STOPPED        = "App. oprita"
+LCD_APP_INITIALIZING   = "Initializare app"
+LCD_APP_RUNNING        = "App. pornita"
+LCD_SPEAK_MED          = "Spune medicament"
+LCD_DETECTING          = "Cautare"
+LCD_EXECUTING          = "Executare"
+LCD_WAITING            = "Astept"
+LCD_CHECKING_PERSON    = "Verific persoana"
+LCD_PERSON_DETECTED    = "Persoana detectata"
+LCD_NO_PERSON          = "Nicio persoana"
+LCD_DELIVERING         = "Livrez medicament"

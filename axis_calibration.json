@@ -1,0 +1,32 @@
+{
+  "0": {
+    "shoulder": 130,
+    "elbow": 145,
+    "wrist": 150
+  },
+  "1": {
+    "shoulder": 130,
+    "elbow": 165,
+    "wrist": 150
+  },
+  "2": {
+    "shoulder": 120,
+    "elbow": 175,
+    "wrist": 150
+  },
+  "3": {
+    "shoulder": 100,
+    "elbow": 180,
+    "wrist": 150
+  },
+  "4": {
+    "shoulder": 90,
+    "elbow": 180,
+    "wrist": 170
+  },
+  "5": {
+    "shoulder": 95,
+    "elbow": 180,
+    "wrist": 180
+  }
+}
